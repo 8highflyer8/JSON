@@ -1,1 +1,6 @@
-{ "Andrey" : 37}
+{ "Surname name" : "Maximenko Andrey",
+  "Age" : 37,
+  "Animals" : 0,
+  "Salary" : 100000
+   
+}
